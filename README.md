@@ -12,7 +12,7 @@
 
 ## 📌 معرفی
 
-AGConnectX یک نرم‌افزار **کاملاً رایگان** برای رفع محدودیت دسترسی به برنامه‌ها است که با هدف ارائه تجربه‌ای ساده، سریع و پایدار برای کاربران ایرانی توسعه داده شده است.
+BeparDis یک نرم‌افزار **کاملاً رایگان** برای رفع محدودیت دسترسی به برنامه‌ها است که با هدف ارائه تجربه‌ای ساده، سریع و پایدار برای کاربران ایرانی توسعه داده شده است.
 
 در حال حاضر این نرم‌افزار از **Discord** پشتیبانی می‌کند و با بهره‌گیری از چندین سرور و چندین مسیر ارتباطی، تلاش می‌کند بهترین کیفیت اتصال ممکن را فراهم کند.
 
@@ -53,9 +53,9 @@ AGConnectX یک نرم‌افزار **کاملاً رایگان** برای رف�
 
 ## 📌 About
 
-AGConnectX is a **completely free** application designed to help users access supported applications with a simple, fast, and reliable experience.
+BeparDis is a **completely free** application designed to help users access supported applications with a simple, fast, and reliable experience.
 
-Currently, AGConnectX supports **Discord** and utilizes multiple servers and connection routes to provide a more stable and optimized connection experience.
+Currently, BeparDis supports **Discord** and utilizes multiple servers and connection routes to provide a more stable and optimized connection experience.
 
 The project is provided free of charge, and with community support, additional applications and services may be added in future updates.
 
@@ -76,7 +76,7 @@ The project is provided free of charge, and with community support, additional a
 
 ## ❤️ Free Forever
 
-AGConnectX is currently available **free of charge**.
+BeparDis is currently available **free of charge**.
 
 No subscription or payment is required to use the software.
 
@@ -84,7 +84,7 @@ No subscription or payment is required to use the software.
 
 ## 📢 Support The Project
 
-If you enjoy using AGConnectX, consider sharing it with others and providing feedback.
+If you enjoy using BeparDis, consider sharing it with others and providing feedback.
 
 Your support helps improve the project and enables the addition of new supported applications in future releases.
 
